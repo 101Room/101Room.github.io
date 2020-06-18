@@ -149,12 +149,14 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	line-height:1em;
 }
 .subtitle { 
+	text-align: center;
 	line-height:.9em;
 	font-size:5.5em;
 	margin-top:0;
 	margin-bottom:40px; 
 }
 .tagline { 
+	text-align: center;
 	font-size:1em;
 	line-height:1.3em;
 	font-weight:normal;
