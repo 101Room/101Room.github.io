@@ -157,7 +157,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 .tagline { 
 	text-align: center;
-	font-size:1em;
+	font-size:1.4em;
 	line-height:1.3em;
 	font-weight:normal;
 	margin-bottom:75px;
@@ -165,7 +165,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 
 .news { 
 	text-align: center;
-	font-size:1.4em;
+	font-size:1em;
 	color:#aaaaaa80;
 	line-height:1.2em;
 	font-weight:normal;
