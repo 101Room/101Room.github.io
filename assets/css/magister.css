@@ -382,4 +382,6 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	.section {
 		max-width: 1020px;
 		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
 }
