@@ -107,7 +107,7 @@ body {
 .section { 
 	z-index: 1;
 	min-height:420px;
-	max-width: 70%; 
+	width: auto; 
 	overflow:auto;
 	height:100%;
 	padding-top:100px;
